@@ -1,5 +1,4 @@
 @extends('main')
-
 @section('content')
 <div class="container">
 	<!-- Top box -->
